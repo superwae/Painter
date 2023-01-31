@@ -1,0 +1,109 @@
+﻿  Painter.cpp
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(9,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(9,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(9,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(13,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(47,40): warning C4244: 'argument': conversion from '_Ty2' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(47,26): warning C4244: 'argument': conversion from '_Ty1' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(59,40): warning C4244: 'argument': conversion from '_Ty2' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(59,26): warning C4244: 'argument': conversion from '_Ty1' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(69,36): warning C4244: 'argument': conversion from '_Ty2' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(69,22): warning C4244: 'argument': conversion from '_Ty1' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(70,36): warning C4244: 'argument': conversion from '_Ty2' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(70,22): warning C4244: 'argument': conversion from '_Ty1' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(78,36): warning C4244: 'argument': conversion from '_Ty2' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(78,22): warning C4244: 'argument': conversion from '_Ty1' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(88,40): warning C4244: 'argument': conversion from '_Ty2' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(88,26): warning C4244: 'argument': conversion from '_Ty1' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(133,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(138,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(143,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(148,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(153,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(158,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(178,22): warning C4244: '=': conversion from 'double' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(179,27): warning C4244: '=': conversion from 'double' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(198,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(199,48): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(199,34): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(212,26): warning C4244: '=': conversion from 'double' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(213,31): warning C4244: '=': conversion from 'double' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(243,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\wael2\Downloads\Painter\Painter\Painter.cpp(243,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 93 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Painter.vcxproj -> C:\Users\wael2\Downloads\Painter\x64\Release\Painter.exe
